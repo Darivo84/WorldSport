@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea
+.iml
+storage/framework/sessions/
+storage/logs/
+
+\.DS_Store
